@@ -1,0 +1,15 @@
+C:\Users\icaro\OneDrive\Documentos\ws-visualstudio2022\Idades\Idades\obj\Debug\net6.0\Idades.csproj.AssemblyReference.cache
+C:\Users\icaro\OneDrive\Documentos\ws-visualstudio2022\Idades\Idades\obj\Debug\net6.0\Idades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\icaro\OneDrive\Documentos\ws-visualstudio2022\Idades\Idades\obj\Debug\net6.0\Idades.AssemblyInfoInputs.cache
+C:\Users\icaro\OneDrive\Documentos\ws-visualstudio2022\Idades\Idades\obj\Debug\net6.0\Idades.AssemblyInfo.cs
+C:\Users\icaro\OneDrive\Documentos\ws-visualstudio2022\Idades\Idades\obj\Debug\net6.0\Idades.csproj.CoreCompileInputs.cache
+C:\Users\icaro\OneDrive\Documentos\ws-visualstudio2022\Idades\Idades\bin\Debug\net6.0\Idades.exe
+C:\Users\icaro\OneDrive\Documentos\ws-visualstudio2022\Idades\Idades\bin\Debug\net6.0\Idades.deps.json
+C:\Users\icaro\OneDrive\Documentos\ws-visualstudio2022\Idades\Idades\bin\Debug\net6.0\Idades.runtimeconfig.json
+C:\Users\icaro\OneDrive\Documentos\ws-visualstudio2022\Idades\Idades\bin\Debug\net6.0\Idades.dll
+C:\Users\icaro\OneDrive\Documentos\ws-visualstudio2022\Idades\Idades\bin\Debug\net6.0\Idades.pdb
+C:\Users\icaro\OneDrive\Documentos\ws-visualstudio2022\Idades\Idades\obj\Debug\net6.0\Idades.dll
+C:\Users\icaro\OneDrive\Documentos\ws-visualstudio2022\Idades\Idades\obj\Debug\net6.0\refint\Idades.dll
+C:\Users\icaro\OneDrive\Documentos\ws-visualstudio2022\Idades\Idades\obj\Debug\net6.0\Idades.pdb
+C:\Users\icaro\OneDrive\Documentos\ws-visualstudio2022\Idades\Idades\obj\Debug\net6.0\Idades.genruntimeconfig.cache
+C:\Users\icaro\OneDrive\Documentos\ws-visualstudio2022\Idades\Idades\obj\Debug\net6.0\ref\Idades.dll

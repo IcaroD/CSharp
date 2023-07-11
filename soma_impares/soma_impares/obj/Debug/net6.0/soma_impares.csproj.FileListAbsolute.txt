@@ -1,0 +1,15 @@
+C:\Users\icaro\OneDrive\Documentos\ws-visualstudio2022\soma_impares\soma_impares\bin\Debug\net6.0\soma_impares.exe
+C:\Users\icaro\OneDrive\Documentos\ws-visualstudio2022\soma_impares\soma_impares\bin\Debug\net6.0\soma_impares.deps.json
+C:\Users\icaro\OneDrive\Documentos\ws-visualstudio2022\soma_impares\soma_impares\bin\Debug\net6.0\soma_impares.runtimeconfig.json
+C:\Users\icaro\OneDrive\Documentos\ws-visualstudio2022\soma_impares\soma_impares\bin\Debug\net6.0\soma_impares.dll
+C:\Users\icaro\OneDrive\Documentos\ws-visualstudio2022\soma_impares\soma_impares\bin\Debug\net6.0\soma_impares.pdb
+C:\Users\icaro\OneDrive\Documentos\ws-visualstudio2022\soma_impares\soma_impares\obj\Debug\net6.0\soma_impares.csproj.AssemblyReference.cache
+C:\Users\icaro\OneDrive\Documentos\ws-visualstudio2022\soma_impares\soma_impares\obj\Debug\net6.0\soma_impares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\icaro\OneDrive\Documentos\ws-visualstudio2022\soma_impares\soma_impares\obj\Debug\net6.0\soma_impares.AssemblyInfoInputs.cache
+C:\Users\icaro\OneDrive\Documentos\ws-visualstudio2022\soma_impares\soma_impares\obj\Debug\net6.0\soma_impares.AssemblyInfo.cs
+C:\Users\icaro\OneDrive\Documentos\ws-visualstudio2022\soma_impares\soma_impares\obj\Debug\net6.0\soma_impares.csproj.CoreCompileInputs.cache
+C:\Users\icaro\OneDrive\Documentos\ws-visualstudio2022\soma_impares\soma_impares\obj\Debug\net6.0\soma_impares.dll
+C:\Users\icaro\OneDrive\Documentos\ws-visualstudio2022\soma_impares\soma_impares\obj\Debug\net6.0\refint\soma_impares.dll
+C:\Users\icaro\OneDrive\Documentos\ws-visualstudio2022\soma_impares\soma_impares\obj\Debug\net6.0\soma_impares.pdb
+C:\Users\icaro\OneDrive\Documentos\ws-visualstudio2022\soma_impares\soma_impares\obj\Debug\net6.0\soma_impares.genruntimeconfig.cache
+C:\Users\icaro\OneDrive\Documentos\ws-visualstudio2022\soma_impares\soma_impares\obj\Debug\net6.0\ref\soma_impares.dll
